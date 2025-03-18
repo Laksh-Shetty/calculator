@@ -55,8 +55,8 @@ button{
 }body{
     display: grid;
     place-items: center;
-    height: 100vh;
-  background: linear-gradient(aqua, rgb(0, 94, 255));
+    height: 97vh;
+    background: linear-gradient(aqua, rgb(0, 94, 255));
 }
 
 
