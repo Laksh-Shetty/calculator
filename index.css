@@ -32,6 +32,7 @@ button{
     outline: none;
     margin: 2px;
     border: 1px solid rgb(195, 193, 193);
+    font-size: larger;
 }
 .y{
     display: grid;
@@ -51,15 +52,18 @@ button{
     border-radius: 20px;
     border: 2px ;
    font-weight: 700;
+   
  
 }body{
     display: grid;
     place-items: center;
     height: 97vh;
     background: linear-gradient(aqua, rgb(0, 94, 255));
+  
 }
-
-
+input{
+    font-size: 0.888rem;
+}
 
 
 
